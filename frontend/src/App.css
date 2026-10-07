@@ -1,0 +1,220 @@
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+  min-height: 100vh;
+  width: 100%;
+}
+
+/* Adjust padding and layout for mobile */
+@media (max-width: 768px) {
+  #root {
+    padding: 4rem 1rem 1rem 1rem; /* Add more space at top for mobile menu button */
+  }
+}
+
+/* Main content layout */
+.main-content {
+  width: 100%;
+  transition: margin-left 0.3s ease;
+}
+
+/* Desktop sidebar margin */
+@media (min-width: 769px) {
+  .main-content {
+    margin-left: 16rem; /* Sidebar width */
+    width: calc(100% - 16rem);
+  }
+}
+
+/* General form and card styles */
+.card {
+  padding: 1.5rem;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .card {
+    padding: 1rem;
+  }
+}
+
+/* Grid layouts */
+.grid {
+  display: grid;
+  gap: 1.5rem;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr !important;
+    gap: 1rem;
+  }
+}
+
+/* Form elements */
+form {
+  width: 100%;
+  max-width: 100%;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  max-width: 100%;
+  min-height: 2.5rem;
+}
+
+/* Table responsiveness */
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+table {
+  min-width: 100%;
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+  /* Improve touch targets */
+  button,
+  .button {
+    min-height: 2.75rem;
+    padding: 0.625rem 1.25rem;
+  }
+
+  /* Stack form groups */
+  .form-group {
+    margin-bottom: 1.25rem;
+  }
+
+  /* Adjust spacing */
+  .space-y-6 > :not([hidden]) ~ :not([hidden]) {
+    margin-top: 1.5rem;
+  }
+
+  /* Better label alignment */
+  label {
+    display: block;
+    margin-bottom: 0.5rem;
+    text-align: left;
+  }
+
+  /* Make cards more compact */
+  .card-content {
+    padding: 1rem;
+  }
+
+  /* Adjust headings */
+  h1 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+  }
+}
+
+/* File upload sections */
+.file-upload-section {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: 2px dashed #e2e8f0;
+  margin: 1rem 0;
+  text-align: center;
+}
+
+/* Error messages */
+.error-message {
+  font-size: 0.875rem;
+  color: #ef4444;
+  margin-top: 0.25rem;
+  text-align: left;
+}
+
+/* Dialog/Modal improvements */
+.dialog-content,
+.modal-content {
+  width: calc(100% - 2rem);
+  max-height: calc(100vh - 4rem);
+  margin: 1rem;
+  padding: 1.5rem;
+  overflow-y: auto;
+}
+
+@media (max-width: 768px) {
+  .dialog-content,
+  .modal-content {
+    padding: 1rem;
+  }
+}
+
+/* Left align text in forms */
+form label,
+form input,
+form select,
+form textarea {
+  text-align: left;
+}
+
+/* Improve button groups */
+.button-group {
+  display: flex;
+  gap: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .button-group {
+    flex-direction: column;
+  }
+  
+  /* Full width buttons on mobile */
+  .button-group button {
+    width: 100%;
+  }
+}
+
+/* Fix any center-aligned containers */
+.container {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0 0.5rem;
+  }
+}
+
+/* Ensure proper form layout */
+.form-row {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .form-row {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
+
+/* Add smooth transitions */
+.transition-all {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}

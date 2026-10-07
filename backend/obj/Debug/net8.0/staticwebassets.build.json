@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "fBqLaE0bHqCQMFUlGuqScQHV04iSb0uW/2dTpM9bj10=",
+  "Source": "SalesInventoryAPI",
+  "BasePath": "_content/SalesInventoryAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SalesInventoryAPI\\wwwroot",
+      "Source": "SalesInventoryAPI",
+      "ContentRoot": "E:\\Projects\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Projects\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\21b61ae3-ba54-464d-b29c-0250b43038f1.jpg",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/21b61ae3-ba54-464d-b29c-0250b43038f1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\21b61ae3-ba54-464d-b29c-0250b43038f1.jpg"
+    }
+  ]
+}

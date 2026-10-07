@@ -1,0 +1,2185 @@
+{
+  "Version": 1,
+  "Hash": "xSBeJEhstaWGgi3KZGOiqB1ucHWrWomYRuVE/dDQdoo=",
+  "Source": "SalesInventoryAPI",
+  "BasePath": "_content/SalesInventoryAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SalesInventoryAPI\\wwwroot",
+      "Source": "SalesInventoryAPI",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\007e4c62-a303-43e9-a932-680749608a79.png",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/007e4c62-a303-43e9-a932-680749608a79#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5wls2rlbjf",
+      "Integrity": "KwRhgR4omd7lO6qqXO6ZuZxJ5cpsyxG4z/1y7XIMIlM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\007e4c62-a303-43e9-a932-680749608a79.png"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\21b61ae3-ba54-464d-b29c-0250b43038f1.jpg",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/21b61ae3-ba54-464d-b29c-0250b43038f1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b4yk7qzhyy",
+      "Integrity": "RZettpvRgJqzuVntsAxH4lzzRlifiQcCTtweXmTHN38=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\21b61ae3-ba54-464d-b29c-0250b43038f1.jpg"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\2318d1e6-321e-48d8-8c4c-1686bbe68411.jpg",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/2318d1e6-321e-48d8-8c4c-1686bbe68411#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xx8m0cml0u",
+      "Integrity": "O9kRwOYrkyKR74+0iZCAgwTH39lBw3kjxCjooemwGnQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\2318d1e6-321e-48d8-8c4c-1686bbe68411.jpg"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\3e8f49b3-e346-4d27-ac26-82e90f12300a.jpeg",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/3e8f49b3-e346-4d27-ac26-82e90f12300a#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n636q8aj9y",
+      "Integrity": "YdCF+wDGqyzoFSIBfYFUdInEkS71jL55KfwkaNf7CEQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\3e8f49b3-e346-4d27-ac26-82e90f12300a.jpeg"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\585cae2e-dd4d-4490-8753-bd5ee1e085df.webp",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/585cae2e-dd4d-4490-8753-bd5ee1e085df#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki07z9cr6i",
+      "Integrity": "XEWpCbQeM9lznK73H02wgYiE618FHqepeTTizaiMdkc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\585cae2e-dd4d-4490-8753-bd5ee1e085df.webp"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\6f2b4a2c-fd9a-4f03-86b9-1e2eb7b7e534.png",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/6f2b4a2c-fd9a-4f03-86b9-1e2eb7b7e534#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "arowyn4jd8",
+      "Integrity": "qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\6f2b4a2c-fd9a-4f03-86b9-1e2eb7b7e534.png"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\9b64c5e4-c6de-4f5b-bdf2-951bdec9877e.png",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/9b64c5e4-c6de-4f5b-bdf2-951bdec9877e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s28y53npxt",
+      "Integrity": "ZB7sc5f2404SR4E2skfUdk89Xd9Y19ZwvMVC3X9I3TI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\9b64c5e4-c6de-4f5b-bdf2-951bdec9877e.png"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\a52511f6-fc27-4555-b31d-040af985e837.png",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/a52511f6-fc27-4555-b31d-040af985e837#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "arowyn4jd8",
+      "Integrity": "qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\a52511f6-fc27-4555-b31d-040af985e837.png"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\a94026b8-1b2d-42aa-8313-7d399a990062.png",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/a94026b8-1b2d-42aa-8313-7d399a990062#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "arowyn4jd8",
+      "Integrity": "qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\a94026b8-1b2d-42aa-8313-7d399a990062.png"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\bc278a14-0820-48fb-8d1f-7b47f0c7cf52.jpg",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/bc278a14-0820-48fb-8d1f-7b47f0c7cf52#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "02vrm85ooz",
+      "Integrity": "+BuSnlTZz8ZrvHgxW0rY4K2mf+a3I9EjD0NQUq7jLHg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\bc278a14-0820-48fb-8d1f-7b47f0c7cf52.jpg"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\bc9a862a-7af1-4bb2-8629-7a9078194c83.png",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/bc9a862a-7af1-4bb2-8629-7a9078194c83#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0kdhn8ttyr",
+      "Integrity": "4AWvP3Zwjm1jp6VliprNCLsGfSvIgcnJhz8YrgNO10A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\bc9a862a-7af1-4bb2-8629-7a9078194c83.png"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\c6685d9a-17e7-450c-a657-c907eeab2c69.png",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/c6685d9a-17e7-450c-a657-c907eeab2c69#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "arowyn4jd8",
+      "Integrity": "qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\c6685d9a-17e7-450c-a657-c907eeab2c69.png"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\c79f6c5c-7fa7-4346-b8e1-19ecba585d3b.png",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/c79f6c5c-7fa7-4346-b8e1-19ecba585d3b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5wls2rlbjf",
+      "Integrity": "KwRhgR4omd7lO6qqXO6ZuZxJ5cpsyxG4z/1y7XIMIlM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\c79f6c5c-7fa7-4346-b8e1-19ecba585d3b.png"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\e495d42f-79fb-4289-aeb4-3a7175b078e9.jpeg",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/e495d42f-79fb-4289-aeb4-3a7175b078e9#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mcjrz6uoxx",
+      "Integrity": "tlXj2ZAtj1Fob9CgScIjhFPz1g/kzO/33d6hyxHQTOA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\e495d42f-79fb-4289-aeb4-3a7175b078e9.jpeg"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\ef09c4e6-fa39-4f30-8b8c-6a37c10f88ea_sample2.png",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/ef09c4e6-fa39-4f30-8b8c-6a37c10f88ea_sample2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z67v470za5",
+      "Integrity": "1QmYpFhN/gOkUwsz8/FEjfKC01US46ykXNVGOmtuGUs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\ef09c4e6-fa39-4f30-8b8c-6a37c10f88ea_sample2.png"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\f0e41fb4-6efe-4156-85aa-5a686689dbae.docx",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/f0e41fb4-6efe-4156-85aa-5a686689dbae#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ik0zadl60",
+      "Integrity": "zuKwADHPw8BF0Fki+o5O0W1D3EX0YbhQw51BEU9PhmE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\f0e41fb4-6efe-4156-85aa-5a686689dbae.docx"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\f1b38db0-cabe-4ead-b776-445afa6976e6.png",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/f1b38db0-cabe-4ead-b776-445afa6976e6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "arowyn4jd8",
+      "Integrity": "qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\f1b38db0-cabe-4ead-b776-445afa6976e6.png"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\f4e82e37-ca41-4339-a79e-23e498480745.jpeg",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/f4e82e37-ca41-4339-a79e-23e498480745#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mcjrz6uoxx",
+      "Integrity": "tlXj2ZAtj1Fob9CgScIjhFPz1g/kzO/33d6hyxHQTOA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\f4e82e37-ca41-4339-a79e-23e498480745.jpeg"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\fb8f6f56-7a3e-40a7-839f-50eaecb70414.png",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/fb8f6f56-7a3e-40a7-839f-50eaecb70414#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s28y53npxt",
+      "Integrity": "ZB7sc5f2404SR4E2skfUdk89Xd9Y19ZwvMVC3X9I3TI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\fb8f6f56-7a3e-40a7-839f-50eaecb70414.png"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\fe9af3a5-4ece-4ab3-adca-0d83b814a2b0.jpg",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/fe9af3a5-4ece-4ab3-adca-0d83b814a2b0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xx8m0cml0u",
+      "Integrity": "O9kRwOYrkyKR74+0iZCAgwTH39lBw3kjxCjooemwGnQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\fe9af3a5-4ece-4ab3-adca-0d83b814a2b0.jpg"
+    },
+    {
+      "Identity": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\product-sample.jpg",
+      "SourceId": "SalesInventoryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\",
+      "BasePath": "_content/SalesInventoryAPI",
+      "RelativePath": "Uploads/product-sample#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tqluyoooqm",
+      "Integrity": "a/RRDO3CcU37vcOrHLjLHyND045dLDBzry4vh6WwHT4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\product-sample.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Uploads/007e4c62-a303-43e9-a932-680749608a79.5wls2rlbjf.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\007e4c62-a303-43e9-a932-680749608a79.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "359429"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KwRhgR4omd7lO6qqXO6ZuZxJ5cpsyxG4z/1y7XIMIlM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 06:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5wls2rlbjf"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/007e4c62-a303-43e9-a932-680749608a79.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KwRhgR4omd7lO6qqXO6ZuZxJ5cpsyxG4z/1y7XIMIlM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/007e4c62-a303-43e9-a932-680749608a79.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\007e4c62-a303-43e9-a932-680749608a79.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "359429"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KwRhgR4omd7lO6qqXO6ZuZxJ5cpsyxG4z/1y7XIMIlM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 06:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KwRhgR4omd7lO6qqXO6ZuZxJ5cpsyxG4z/1y7XIMIlM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/21b61ae3-ba54-464d-b29c-0250b43038f1.b4yk7qzhyy.jpg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\21b61ae3-ba54-464d-b29c-0250b43038f1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1196426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RZettpvRgJqzuVntsAxH4lzzRlifiQcCTtweXmTHN38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 05:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b4yk7qzhyy"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/21b61ae3-ba54-464d-b29c-0250b43038f1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RZettpvRgJqzuVntsAxH4lzzRlifiQcCTtweXmTHN38="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/21b61ae3-ba54-464d-b29c-0250b43038f1.jpg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\21b61ae3-ba54-464d-b29c-0250b43038f1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1196426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RZettpvRgJqzuVntsAxH4lzzRlifiQcCTtweXmTHN38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 05:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RZettpvRgJqzuVntsAxH4lzzRlifiQcCTtweXmTHN38="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/2318d1e6-321e-48d8-8c4c-1686bbe68411.jpg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\2318d1e6-321e-48d8-8c4c-1686bbe68411.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "581553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O9kRwOYrkyKR74+0iZCAgwTH39lBw3kjxCjooemwGnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 06:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O9kRwOYrkyKR74+0iZCAgwTH39lBw3kjxCjooemwGnQ="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/2318d1e6-321e-48d8-8c4c-1686bbe68411.xx8m0cml0u.jpg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\2318d1e6-321e-48d8-8c4c-1686bbe68411.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "581553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O9kRwOYrkyKR74+0iZCAgwTH39lBw3kjxCjooemwGnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 06:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xx8m0cml0u"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/2318d1e6-321e-48d8-8c4c-1686bbe68411.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O9kRwOYrkyKR74+0iZCAgwTH39lBw3kjxCjooemwGnQ="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/3e8f49b3-e346-4d27-ac26-82e90f12300a.jpeg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\3e8f49b3-e346-4d27-ac26-82e90f12300a.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YdCF+wDGqyzoFSIBfYFUdInEkS71jL55KfwkaNf7CEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YdCF+wDGqyzoFSIBfYFUdInEkS71jL55KfwkaNf7CEQ="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/3e8f49b3-e346-4d27-ac26-82e90f12300a.n636q8aj9y.jpeg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\3e8f49b3-e346-4d27-ac26-82e90f12300a.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YdCF+wDGqyzoFSIBfYFUdInEkS71jL55KfwkaNf7CEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n636q8aj9y"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/3e8f49b3-e346-4d27-ac26-82e90f12300a.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YdCF+wDGqyzoFSIBfYFUdInEkS71jL55KfwkaNf7CEQ="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/585cae2e-dd4d-4490-8753-bd5ee1e085df.ki07z9cr6i.webp",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\585cae2e-dd4d-4490-8753-bd5ee1e085df.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XEWpCbQeM9lznK73H02wgYiE618FHqepeTTizaiMdkc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 09:26:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki07z9cr6i"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/585cae2e-dd4d-4490-8753-bd5ee1e085df.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XEWpCbQeM9lznK73H02wgYiE618FHqepeTTizaiMdkc="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/585cae2e-dd4d-4490-8753-bd5ee1e085df.webp",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\585cae2e-dd4d-4490-8753-bd5ee1e085df.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XEWpCbQeM9lznK73H02wgYiE618FHqepeTTizaiMdkc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 09:26:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XEWpCbQeM9lznK73H02wgYiE618FHqepeTTizaiMdkc="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/6f2b4a2c-fd9a-4f03-86b9-1e2eb7b7e534.arowyn4jd8.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\6f2b4a2c-fd9a-4f03-86b9-1e2eb7b7e534.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 06:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "arowyn4jd8"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/6f2b4a2c-fd9a-4f03-86b9-1e2eb7b7e534.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/6f2b4a2c-fd9a-4f03-86b9-1e2eb7b7e534.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\6f2b4a2c-fd9a-4f03-86b9-1e2eb7b7e534.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 06:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/9b64c5e4-c6de-4f5b-bdf2-951bdec9877e.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\9b64c5e4-c6de-4f5b-bdf2-951bdec9877e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZB7sc5f2404SR4E2skfUdk89Xd9Y19ZwvMVC3X9I3TI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZB7sc5f2404SR4E2skfUdk89Xd9Y19ZwvMVC3X9I3TI="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/9b64c5e4-c6de-4f5b-bdf2-951bdec9877e.s28y53npxt.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\9b64c5e4-c6de-4f5b-bdf2-951bdec9877e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZB7sc5f2404SR4E2skfUdk89Xd9Y19ZwvMVC3X9I3TI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s28y53npxt"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/9b64c5e4-c6de-4f5b-bdf2-951bdec9877e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZB7sc5f2404SR4E2skfUdk89Xd9Y19ZwvMVC3X9I3TI="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/a52511f6-fc27-4555-b31d-040af985e837.arowyn4jd8.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\a52511f6-fc27-4555-b31d-040af985e837.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 06:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "arowyn4jd8"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/a52511f6-fc27-4555-b31d-040af985e837.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/a52511f6-fc27-4555-b31d-040af985e837.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\a52511f6-fc27-4555-b31d-040af985e837.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 06:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/a94026b8-1b2d-42aa-8313-7d399a990062.arowyn4jd8.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\a94026b8-1b2d-42aa-8313-7d399a990062.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 11:25:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "arowyn4jd8"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/a94026b8-1b2d-42aa-8313-7d399a990062.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/a94026b8-1b2d-42aa-8313-7d399a990062.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\a94026b8-1b2d-42aa-8313-7d399a990062.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 11:25:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/bc278a14-0820-48fb-8d1f-7b47f0c7cf52.02vrm85ooz.jpg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\bc278a14-0820-48fb-8d1f-7b47f0c7cf52.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+BuSnlTZz8ZrvHgxW0rY4K2mf+a3I9EjD0NQUq7jLHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02vrm85ooz"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/bc278a14-0820-48fb-8d1f-7b47f0c7cf52.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+BuSnlTZz8ZrvHgxW0rY4K2mf+a3I9EjD0NQUq7jLHg="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/bc278a14-0820-48fb-8d1f-7b47f0c7cf52.jpg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\bc278a14-0820-48fb-8d1f-7b47f0c7cf52.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+BuSnlTZz8ZrvHgxW0rY4K2mf+a3I9EjD0NQUq7jLHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+BuSnlTZz8ZrvHgxW0rY4K2mf+a3I9EjD0NQUq7jLHg="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/bc9a862a-7af1-4bb2-8629-7a9078194c83.0kdhn8ttyr.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\bc9a862a-7af1-4bb2-8629-7a9078194c83.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "271010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4AWvP3Zwjm1jp6VliprNCLsGfSvIgcnJhz8YrgNO10A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 11:12:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0kdhn8ttyr"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/bc9a862a-7af1-4bb2-8629-7a9078194c83.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4AWvP3Zwjm1jp6VliprNCLsGfSvIgcnJhz8YrgNO10A="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/bc9a862a-7af1-4bb2-8629-7a9078194c83.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\bc9a862a-7af1-4bb2-8629-7a9078194c83.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "271010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4AWvP3Zwjm1jp6VliprNCLsGfSvIgcnJhz8YrgNO10A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 11:12:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4AWvP3Zwjm1jp6VliprNCLsGfSvIgcnJhz8YrgNO10A="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/c6685d9a-17e7-450c-a657-c907eeab2c69.arowyn4jd8.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\c6685d9a-17e7-450c-a657-c907eeab2c69.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 06:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "arowyn4jd8"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/c6685d9a-17e7-450c-a657-c907eeab2c69.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/c6685d9a-17e7-450c-a657-c907eeab2c69.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\c6685d9a-17e7-450c-a657-c907eeab2c69.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 06:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/c79f6c5c-7fa7-4346-b8e1-19ecba585d3b.5wls2rlbjf.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\c79f6c5c-7fa7-4346-b8e1-19ecba585d3b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "359429"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KwRhgR4omd7lO6qqXO6ZuZxJ5cpsyxG4z/1y7XIMIlM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5wls2rlbjf"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/c79f6c5c-7fa7-4346-b8e1-19ecba585d3b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KwRhgR4omd7lO6qqXO6ZuZxJ5cpsyxG4z/1y7XIMIlM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/c79f6c5c-7fa7-4346-b8e1-19ecba585d3b.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\c79f6c5c-7fa7-4346-b8e1-19ecba585d3b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "359429"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KwRhgR4omd7lO6qqXO6ZuZxJ5cpsyxG4z/1y7XIMIlM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KwRhgR4omd7lO6qqXO6ZuZxJ5cpsyxG4z/1y7XIMIlM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/e495d42f-79fb-4289-aeb4-3a7175b078e9.jpeg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\e495d42f-79fb-4289-aeb4-3a7175b078e9.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tlXj2ZAtj1Fob9CgScIjhFPz1g/kzO/33d6hyxHQTOA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tlXj2ZAtj1Fob9CgScIjhFPz1g/kzO/33d6hyxHQTOA="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/e495d42f-79fb-4289-aeb4-3a7175b078e9.mcjrz6uoxx.jpeg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\e495d42f-79fb-4289-aeb4-3a7175b078e9.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tlXj2ZAtj1Fob9CgScIjhFPz1g/kzO/33d6hyxHQTOA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mcjrz6uoxx"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/e495d42f-79fb-4289-aeb4-3a7175b078e9.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tlXj2ZAtj1Fob9CgScIjhFPz1g/kzO/33d6hyxHQTOA="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/ef09c4e6-fa39-4f30-8b8c-6a37c10f88ea_sample2.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\ef09c4e6-fa39-4f30-8b8c-6a37c10f88ea_sample2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1QmYpFhN/gOkUwsz8/FEjfKC01US46ykXNVGOmtuGUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 06:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1QmYpFhN/gOkUwsz8/FEjfKC01US46ykXNVGOmtuGUs="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/ef09c4e6-fa39-4f30-8b8c-6a37c10f88ea_sample2.z67v470za5.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\ef09c4e6-fa39-4f30-8b8c-6a37c10f88ea_sample2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1QmYpFhN/gOkUwsz8/FEjfKC01US46ykXNVGOmtuGUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 06:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z67v470za5"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/ef09c4e6-fa39-4f30-8b8c-6a37c10f88ea_sample2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1QmYpFhN/gOkUwsz8/FEjfKC01US46ykXNVGOmtuGUs="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/f0e41fb4-6efe-4156-85aa-5a686689dbae.6ik0zadl60.docx",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\f0e41fb4-6efe-4156-85aa-5a686689dbae.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zuKwADHPw8BF0Fki+o5O0W1D3EX0YbhQw51BEU9PhmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 02 Sep 2025 06:09:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ik0zadl60"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/f0e41fb4-6efe-4156-85aa-5a686689dbae.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zuKwADHPw8BF0Fki+o5O0W1D3EX0YbhQw51BEU9PhmE="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/f0e41fb4-6efe-4156-85aa-5a686689dbae.docx",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\f0e41fb4-6efe-4156-85aa-5a686689dbae.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zuKwADHPw8BF0Fki+o5O0W1D3EX0YbhQw51BEU9PhmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 02 Sep 2025 06:09:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zuKwADHPw8BF0Fki+o5O0W1D3EX0YbhQw51BEU9PhmE="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/f1b38db0-cabe-4ead-b776-445afa6976e6.arowyn4jd8.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\f1b38db0-cabe-4ead-b776-445afa6976e6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 06:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "arowyn4jd8"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/f1b38db0-cabe-4ead-b776-445afa6976e6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/f1b38db0-cabe-4ead-b776-445afa6976e6.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\f1b38db0-cabe-4ead-b776-445afa6976e6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 06:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qpy0tGamK1umYq34UAO+5Bwx7LOCoPP0lWMUY4Gr8kM="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/f4e82e37-ca41-4339-a79e-23e498480745.jpeg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\f4e82e37-ca41-4339-a79e-23e498480745.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tlXj2ZAtj1Fob9CgScIjhFPz1g/kzO/33d6hyxHQTOA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tlXj2ZAtj1Fob9CgScIjhFPz1g/kzO/33d6hyxHQTOA="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/f4e82e37-ca41-4339-a79e-23e498480745.mcjrz6uoxx.jpeg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\f4e82e37-ca41-4339-a79e-23e498480745.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tlXj2ZAtj1Fob9CgScIjhFPz1g/kzO/33d6hyxHQTOA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mcjrz6uoxx"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/f4e82e37-ca41-4339-a79e-23e498480745.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tlXj2ZAtj1Fob9CgScIjhFPz1g/kzO/33d6hyxHQTOA="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/fb8f6f56-7a3e-40a7-839f-50eaecb70414.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\fb8f6f56-7a3e-40a7-839f-50eaecb70414.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZB7sc5f2404SR4E2skfUdk89Xd9Y19ZwvMVC3X9I3TI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZB7sc5f2404SR4E2skfUdk89Xd9Y19ZwvMVC3X9I3TI="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/fb8f6f56-7a3e-40a7-839f-50eaecb70414.s28y53npxt.png",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\fb8f6f56-7a3e-40a7-839f-50eaecb70414.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZB7sc5f2404SR4E2skfUdk89Xd9Y19ZwvMVC3X9I3TI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s28y53npxt"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/fb8f6f56-7a3e-40a7-839f-50eaecb70414.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZB7sc5f2404SR4E2skfUdk89Xd9Y19ZwvMVC3X9I3TI="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/fe9af3a5-4ece-4ab3-adca-0d83b814a2b0.jpg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\fe9af3a5-4ece-4ab3-adca-0d83b814a2b0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "581553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O9kRwOYrkyKR74+0iZCAgwTH39lBw3kjxCjooemwGnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O9kRwOYrkyKR74+0iZCAgwTH39lBw3kjxCjooemwGnQ="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/fe9af3a5-4ece-4ab3-adca-0d83b814a2b0.xx8m0cml0u.jpg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\fe9af3a5-4ece-4ab3-adca-0d83b814a2b0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "581553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O9kRwOYrkyKR74+0iZCAgwTH39lBw3kjxCjooemwGnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xx8m0cml0u"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/fe9af3a5-4ece-4ab3-adca-0d83b814a2b0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O9kRwOYrkyKR74+0iZCAgwTH39lBw3kjxCjooemwGnQ="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/product-sample.jpg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\product-sample.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "299415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a/RRDO3CcU37vcOrHLjLHyND045dLDBzry4vh6WwHT4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a/RRDO3CcU37vcOrHLjLHyND045dLDBzry4vh6WwHT4="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/product-sample.tqluyoooqm.jpg",
+      "AssetFile": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\product-sample.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "299415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a/RRDO3CcU37vcOrHLjLHyND045dLDBzry4vh6WwHT4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Oct 2025 04:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tqluyoooqm"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/product-sample.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a/RRDO3CcU37vcOrHLjLHyND045dLDBzry4vh6WwHT4="
+        }
+      ]
+    }
+  ]
+}

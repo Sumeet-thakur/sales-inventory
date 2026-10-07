@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Projects\\SalesInventoryAPI\\SalesInventoryAPI\\wwwroot\\Uploads\\21b61ae3-ba54-464d-b29c-0250b43038f1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\21b61ae3-ba54-464d-b29c-0250b43038f1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SalesInventoryAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SalesInventoryAPI.props",
+      "PackagePath": "build\\SalesInventoryAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SalesInventoryAPI.props",
+      "PackagePath": "buildMultiTargeting\\SalesInventoryAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SalesInventoryAPI.props",
+      "PackagePath": "buildTransitive\\SalesInventoryAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

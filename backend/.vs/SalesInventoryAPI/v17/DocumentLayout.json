@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|c:\\localdevelopment\\salesinventorywebapplication\\backend\\salesinventoryapi\\salesinventoryapi\\controller\\salesinvoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|solutionrelative:controller\\salesinvoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|c:\\localdevelopment\\salesinventorywebapplication\\backend\\salesinventoryapi\\salesinventoryapi\\data\\dtos\\salesinvoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|solutionrelative:data\\dtos\\salesinvoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|c:\\localdevelopment\\salesinventorywebapplication\\backend\\salesinventoryapi\\salesinventoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|c:\\localdevelopment\\salesinventorywebapplication\\backend\\salesinventoryapi\\salesinventoryapi\\models\\stocktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|solutionrelative:models\\stocktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|c:\\localdevelopment\\salesinventorywebapplication\\backend\\salesinventoryapi\\salesinventoryapi\\models\\salesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|solutionrelative:models\\salesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|c:\\localdevelopment\\salesinventorywebapplication\\backend\\salesinventoryapi\\salesinventoryapi\\data\\viewmodels\\salesinvoicevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|solutionrelative:data\\viewmodels\\salesinvoicevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|c:\\localdevelopment\\salesinventorywebapplication\\backend\\salesinventoryapi\\salesinventoryapi\\models\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|solutionrelative:models\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|c:\\localdevelopment\\salesinventorywebapplication\\backend\\salesinventoryapi\\salesinventoryapi\\controller\\purchaseinvoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|solutionrelative:controller\\purchaseinvoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|c:\\localdevelopment\\salesinventorywebapplication\\backend\\salesinventoryapi\\salesinventoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB582344-68A7-55F8-EF5C-944F0C6ECA96}|SalesInventoryAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesInvoice.cs",
+              "DocumentMoniker": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Models\\SalesInvoice.cs",
+              "RelativeDocumentMoniker": "Models\\SalesInvoice.cs",
+              "ToolTip": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Models\\SalesInvoice.cs",
+              "RelativeToolTip": "Models\\SalesInvoice.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:22:09.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesInvoiceVM.cs",
+              "DocumentMoniker": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Data\\ViewModels\\SalesInvoiceVM.cs",
+              "RelativeDocumentMoniker": "Data\\ViewModels\\SalesInvoiceVM.cs",
+              "ToolTip": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Data\\ViewModels\\SalesInvoiceVM.cs",
+              "RelativeToolTip": "Data\\ViewModels\\SalesInvoiceVM.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:20:21.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesInvoiceDto.cs",
+              "DocumentMoniker": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Data\\DTOs\\SalesInvoiceDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\SalesInvoiceDto.cs",
+              "ToolTip": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Data\\DTOs\\SalesInvoiceDto.cs",
+              "RelativeToolTip": "Data\\DTOs\\SalesInvoiceDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:19:42.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockTransaction.cs",
+              "DocumentMoniker": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Models\\StockTransaction.cs",
+              "RelativeDocumentMoniker": "Models\\StockTransaction.cs",
+              "ToolTip": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Models\\StockTransaction.cs",
+              "RelativeToolTip": "Models\\StockTransaction.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:54:15.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppConstants.cs",
+              "DocumentMoniker": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Models\\AppConstants.cs",
+              "RelativeDocumentMoniker": "Models\\AppConstants.cs",
+              "ToolTip": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Models\\AppConstants.cs",
+              "RelativeToolTip": "Models\\AppConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:48:32.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PurchaseInvoiceController.cs",
+              "DocumentMoniker": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Controller\\PurchaseInvoiceController.cs",
+              "RelativeDocumentMoniker": "Controller\\PurchaseInvoiceController.cs",
+              "ToolTip": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Controller\\PurchaseInvoiceController.cs",
+              "RelativeToolTip": "Controller\\PurchaseInvoiceController.cs",
+              "ViewState": "AgIAAAECAAAAAAAAAAAlwBACAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:45:39.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesInvoicesController.cs",
+              "DocumentMoniker": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Controller\\SalesInvoicesController.cs",
+              "RelativeDocumentMoniker": "Controller\\SalesInvoicesController.cs",
+              "ToolTip": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Controller\\SalesInvoicesController.cs",
+              "RelativeToolTip": "Controller\\SalesInvoicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:58:52.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T04:37:09.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\LocalDevelopment\\SalesInventoryWebApplication\\backend\\SalesInventoryAPI\\SalesInventoryAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAACcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T04:37:08.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
